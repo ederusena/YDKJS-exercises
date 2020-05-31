@@ -1,0 +1,2 @@
+# YDKJS-exercises
+## SCOPE CLOSURES
